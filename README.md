@@ -8,6 +8,8 @@ We as a Team have created an Image Restoration Model implementing Convolutional 
 
 **Crew Team Process Summary on Image Restoration Model Creation.**
   Team Tageline: In a relentless pursuit to administer a solution to the Universal problem.
+
+  
   **Team Members**
   D.Bippin Shekar Goud: - Team Leader and Lead Coder, Machine Learning Engineer
   M Sai Trilochan: - Data Preparation, Data Visualization, and Data Processing
