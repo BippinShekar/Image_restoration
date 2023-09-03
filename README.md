@@ -11,6 +11,8 @@ We as a Team have created an Image Restoration Model implementing Convolutional 
 
   
   **Team Members**
+
+  
   D.Bippin Shekar Goud: - Team Leader and Lead Coder, Machine Learning Engineer
 
   
